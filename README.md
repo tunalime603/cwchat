@@ -1,2 +1,2 @@
-# tunalime603.github.io/cwchat
-this is a practice chat app for me and my friends
+# tunalime603.github.io/catchat
+formerly known as cwchat
